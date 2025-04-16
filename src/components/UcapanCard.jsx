@@ -10,7 +10,7 @@ const UcapanCard = () => {
            Semoga panjang umur diberkahi hidup nya, sehat selalau,
            di permudah urusan nya dan semoga apa yang di inginkan tercapai 🌟
         </p>
-        <p>-iyay keren-</p>
+        <p>-iyay steykul-</p>
       </div>
     </div>
   );
