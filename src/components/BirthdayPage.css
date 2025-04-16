@@ -1,0 +1,10 @@
+.birthday-container {
+    position: relative;
+    height: 100vh;
+    background: #FFC7DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  

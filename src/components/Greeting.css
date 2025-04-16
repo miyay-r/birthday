@@ -1,0 +1,56 @@
+/* Greeting.css */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
+
+.greeting-wrapper {
+  
+  justify-content: center;
+  align-items: center;
+  font-family: 'Fredoka', sans-serif;
+  padding: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.greeting-card {
+  background-color: #fffaf5;
+  border-radius: 24px;
+  padding: 40px;
+  max-width: 600px;
+  text-align: center;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  border: 4px solid #ffc2d1;
+}
+
+.greeting-card h1 {
+  color: #d6336c;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.greeting-card h2 {
+  color: #c9184a;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.greeting-card p {
+  color: #5f0f40;
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.btn-ucapan {
+  background-color: #ff8fab;
+  color: white;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-ucapan:hover {
+  background-color: #f75c9c;
+}

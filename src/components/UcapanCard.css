@@ -1,0 +1,29 @@
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:#FFC7DA;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .ucapan-card {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ucapan-card h2 {
+    color: #C4426A;
+    margin-bottom: 15px;
+  }
+  
+  .ucapan-card p {
+    font-size: 1.2rem;
+    color: #333;
+    line-height: 1.6;
+  }
+  
